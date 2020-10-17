@@ -10,5 +10,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("hello")
+	fmt.Println("hello反对萨芬的萨")
 }
